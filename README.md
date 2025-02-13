@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 | Student Name | School Email | GitHub Username |
 |    :---:     |     :---:     |     :---:       |
-| member1      |               |                 |
+| Juan Mora      |               |                 |
 | member2      |               |                 |
 | member3      |               |                 |
 | member4      |               |                 |

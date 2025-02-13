@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 | Student Name | School Email | GitHub Username |
 |    :---:     |     :---:     |     :---:       |
-| Juan Mora      | jmora4@sfsu.edu              |                 |
+| Juan Mora    | jmora4@sfsu.edu | juanm0128     |
 | member2      |               |                 |
 | member3      |               |                 |
 | member4      |               |                 |
